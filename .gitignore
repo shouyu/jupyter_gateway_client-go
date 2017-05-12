@@ -22,3 +22,19 @@ _testmain.go
 *.exe
 *.test
 *.prof
+### https://raw.github.com/github/gitignore/fcc71d2966037fc46b3ae4f16e3b30d4e5f28581/Global/vim.gitignore
+
+# swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+
+
